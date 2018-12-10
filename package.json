@@ -1,0 +1,27 @@
+{
+  "name": "hardmob",
+  "version": "1.0.0",
+  "description": "A simple scraper for get promotions on hardmob",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lira/hardmob.git"
+  },
+  "keywords": [
+    "hardmob",
+    "scraper",
+    "promotions"
+  ],
+  "author": "Fernando Lira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lira/hardmob/issues"
+  },
+  "homepage": "https://github.com/lira/hardmob#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
